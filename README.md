@@ -6,7 +6,7 @@ toc.ncx  <br />
 
 Following files are simple examples. <br />
 cover.jpg    #Choose a image for your book as cover, rename it to cover.jpg <br />
-#The script would check the text in  &lt;h4&gt;&lt;/h4&gt; tag as the title of the .ncx file. <br />
+             #The script would check the text in  &lt;h4&gt;&lt;/h4&gt; tag as the title of the .ncx file. <br />
 preface.html  <br />
 chap1.html  <br />
 
