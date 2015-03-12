@@ -6,7 +6,7 @@ toc.ncx
 
 Following files are  simple examples .
 cover.jpg    #Choose a image for your book as cover, rename it to cover.jpg
-#The script would check the text in  <h4></h4> tag as the title of the .ncx file.
+#The script would check the text in  &lt;h4&gt;&lt;/h4&gt; tag as the title of the .ncx file.
 preface.html 
 chap1.html
 
@@ -29,7 +29,7 @@ toc.ncx
 
 这3个文件是举个栗子
 cover.jpg #封面，选一个你要的封面图片，命名成这样就行了
-脚本里会去查下面几个html文件的<h4></h4>标签作为ncx文件的标题
+脚本里会去查下面几个html文件的&lt;h4&gt;&lt;/h4&gt;标签作为ncx文件的标题
 preface.html 
 chap1.html
 
