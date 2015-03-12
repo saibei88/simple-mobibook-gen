@@ -1,3 +1,26 @@
+A single mobi ebook generator with python.
+
+Following files are templates for .opf and .ncx files. DO NOT MODIFY THEM.
+lxb.opf   
+toc.ncx
+
+Following files are  simple examples .
+cover.jpg    #Choose a image for your book as cover, rename it to cover.jpg
+#The script would check the text in  <h4></h4> tag as the title of the .ncx file.
+preface.html 
+chap1.html
+
+USAGE:
+Choose a cover.jpg for the cover of your book.
+Create a preface.html file as the preface of your book.
+Put all chapters of your book in order as chap1.html chap2.html .etc.
+Run the main.py with "python main.py".
+Compile the out.opf with kindlegen using "kindlegen out.opf".
+Then you will get the "out.mobi" file.
+
+kindlegen for linux:
+http://kindlegen.s3.amazonaws.com/kindlegen_linux_2.6_i386_v2_9.tar.gz
+
 一个简单的mobi电子书生成脚本
 
 这2个文件是opf和ncx模板，最好不要改动
