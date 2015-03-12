@@ -10,7 +10,7 @@ cover.jpg    #Choose a image for your book as cover, rename it to cover.jpg <br 
 preface.html  <br />
 chap1.html  <br />
 
-HowTo: <br />
+USAGE: <br />
 Choose a cover.jpg for the cover of your book. <br />
 Create a preface.html file as the preface of your book. <br />
 Put all chapters of your book in order as chap1.html chap2.html .etc. <br />
