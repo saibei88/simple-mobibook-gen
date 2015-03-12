@@ -1,4 +1,4 @@
-A single mobi ebook generator with python.<br />
+A single mobi ebook generator writing in  python.<br />
 
 Following files are templates for .opf and .ncx files. DO NOT MODIFY THEM.<br />
 lxb.opf   <br />
